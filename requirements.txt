@@ -1,2 +1,3 @@
 duckdb==1.0.0
 streamlit==1.36.0
+streamlit-code-editor==0.1.21
